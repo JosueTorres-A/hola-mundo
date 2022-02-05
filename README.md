@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: Josué Torres
+Autor: Josué T.
 Fecha: 5 Febrero 2022
